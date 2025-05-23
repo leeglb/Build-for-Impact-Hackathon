@@ -8,8 +8,10 @@ Problem Statement:
 - efficiency of event planning, fragmented communication.
 
 IDEATE: 
-- think of a concrete solution
+- think of a concrete solution.
+
 ASSESS:
 - determine your solution's desirability, practicality -> why should they consider?
+
 PITCH:
 - create an engaging slide deck and deliver a pitch. 
