@@ -1,23 +1,23 @@
 # Build-for-Impact-Hackathon
 Hackathon Repo for 23/05/2025
 
-** Problem Statement **
+# Problem Statement
 
 - feeling disconnected or lonely
 - not making the most of uni
 - clubs & socities
 - efficiency of event planning, fragmented communication.
 
-IDEATE: 
+# IDEATE: 
 - think of a concrete solution.
 
-ASSESS:
+# ASSESS:
 - determine your solution's desirability, practicality -> why should they consider?
 
-PITCH:
+# PITCH:
 - create an engaging slide deck and deliver a pitch.
 
-Judging Criteria: 
+# Judging Criteria: 
 
 1. Impact: How much real difference will your solution make in solving the problem? Judges will look for ideas that have the potential to create meaningful, lasting change - not just in theory, but in the lives of students at UQ.
    
@@ -27,7 +27,7 @@ Judging Criteria:
 
 4. Creativity: How original, bold, or unexpected is your approach
 
-** Initial Idea **
+# Initial Idea
 
 1. Events and communities app.
 2. Menu: Home, Clubs, Community, My Profile, Settings.
