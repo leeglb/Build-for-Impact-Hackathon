@@ -5,11 +5,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
  
-  <title>My Website</title>
+  <title>Pre-ordering Website</title>
 
   <link rel="icon" href="favicon.ico" type="image/x-icon">
 
   <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet">
+
 
 
   <link rel="stylesheet" href="styles.css">
@@ -17,18 +20,64 @@
 <body>
 
   <header id="nav-section">
-    <input id="search bar" type="search">
-    <button>
-        Favourites
-    </button>
-    <button>
-        History
-    </button>
-    <button>
-        Following
-    </button>
-    <img src="uq clubs & socities.jpeg" alt="UQ Union Picture">
+    <div id="search-div">
+      <input id="search-bar" type="search" placeholder="Search">
+    </div>
+
+    <nav id="nav-bar">
+      <li>
+        <button class="nav-bar-buttons">
+          Favourites
+        </button>
+      </li>
+      <li>
+        <button>
+          History
+      </button>
+      </li>
+      <li>
+        <button>
+          Following
+        </button>
+      </li>
+      <li>
+        <button>
+          Orders
+        </button>
+      </li>
+    </nav>
+    
   </header>
+
+  <main>
+    <div id="img-div">
+      <a href="https://uqu.com.au/" target="_blank">
+        <img src="uq clubs & socities.jpeg" id="uq-union-img" alt="uq-union-img">
+      </a>
+    </div>
+  </main>
+
+  <footer>
+    <nav>
+      <ul id="nav-bar-footer">
+        <li>
+          <i class="fa-solid fa-house"></i>
+        </li>
+        <li>
+          <a href="order.html" class="cart-button">
+            <i class="fa fa-shopping-cart"></i>
+          </a>
+        </li>
+        <li>
+          <i class="fa-solid fa-magnifying-glass-plus"></i>
+        </li>
+        <li>
+          <i class="fa-solid fa-user-large"></i>
+        </li>
+      </ul>
+    </nav>
+  </footer>
+  
 
   
 
