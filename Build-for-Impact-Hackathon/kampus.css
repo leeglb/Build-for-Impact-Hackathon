@@ -1,0 +1,56 @@
+body { 
+
+    background-color: #FFFBEB;
+    overflow: hidden;
+
+}
+
+#logodiv { 
+
+    display: flex;
+    justify-content: space-between;
+
+}
+
+#logodiv > a { 
+
+    font-size: 24px;
+    border-radius: 5px;
+    border: 1px solid rgb(231, 228, 228);
+    box-shadow: 2px 2px 2px grey;
+    height: 30px;
+    width: 100px;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+
+#logodiv > img { 
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+#nav-section { 
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    flex-direction: column;
+    gap: 30px;
+
+}
+
+main {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    flex-direction: column;
+    color: black;
+}
+
+

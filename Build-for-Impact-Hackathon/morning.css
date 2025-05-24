@@ -1,0 +1,72 @@
+body { 
+
+    background-color: #ffffff;
+    overflow: hidden;
+
+}
+
+#logodiv { 
+
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+
+}
+
+#logodiv > img { 
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+#logodiv > a {
+
+    font-size: 24px;
+    border-radius: 5px;
+    border: 1px solid rgb(231, 228, 228);
+    box-shadow: 2px 2px 2px grey;
+    height: 30px;
+    width: 100px;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+
+#nav-section { 
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    flex-direction: column;
+    gap: 30px;
+
+}
+
+header > img {
+
+    width: 300px;
+    height: 300px;
+}
+
+main {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    flex-direction: column;
+}
+
+
+main > img { 
+
+    width: 250px;
+    height: 250px;
+    margin-top: 40px;
+    font-size: 40px;
+    
+
+}
+
