@@ -5,7 +5,7 @@ html, body {
     display: flex;
     flex-direction: column;
     font-family: sans-serif;
-    overflow: hidden;
+    overflow-x: hidden;
 }  
 
 #nav-section {
@@ -113,15 +113,11 @@ main > #upcoming > p {
 }
 
 
-#kampus > a > img, #coop > a > img { 
+#kampus > a > img, #coop > a > img, #morning > a > img { 
 
-    width: 150px;
+    width: 170px;
 }
 
-#morning > a > img {
-
-    width: 250px;
-}
 
 #coop, #kampus, #morning {
 
@@ -129,7 +125,9 @@ main > #upcoming > p {
     justify-content: space-between;
     gap: 20px;
     margin-top: 20px;
+    object-fit: cover;
 }
+
 
 
 footer { 
@@ -155,3 +153,4 @@ footer {
     font-size: 20px;
     color: black;
   }
+
